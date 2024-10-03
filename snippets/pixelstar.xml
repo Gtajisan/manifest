@@ -4,6 +4,11 @@
   <remote  name="pixelstar"
            fetch="https://github.com/Project-Pixelstar/"
            revision="14-qpr3" />
+  <!-- GitHub owner -->
+  <remote  name="Gtajisan"
+           fetch="https://github.com/Gtajisan/"
+           revision="14-qpr3" />
+  
 
   <!-- GMS -->
   <remote  name="pixelstar-gitlab"
@@ -136,7 +141,7 @@
   <project path="vendor/google/gms" name="vendor_google_gms" remote="pixelstar-gitlab" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixelstar" />
   <project path="vendor/official_devices" name="official_devices" remote="pixelstar" revision="14"/>
-  <project path="vendor/pixelstar" name="vendor_pixelstar" remote="pixelstar" />
+  <project path="vendor/pixelstar" name="vendor_pixelstar" remote="Gtajisan" />
   <project path="vendor/microsoft/mms" name="vendor_microsoft_mms" remote="pixelstar-gitlab" />
 
   <!-- ProtonAosp -->
