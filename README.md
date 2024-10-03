@@ -15,7 +15,7 @@ PixelStar
 ### Sync ###
 
 ```bash
-git lfs install && repo init -u https://github.com/Project-PixelStar/manifest -b 14-qpr3 --git-lfs && repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+git lfs install && repo init -u https://github.com/Gtajisan/manifest -b 14-qpr3 --git-lfs && repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 ### Build ###
 
